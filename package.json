@@ -46,7 +46,7 @@
     "@types/glob": "^8.0.0",
     "@types/ip-address": "^7.0.0",
     "@types/is-base64": "^1.1.0",
-    "@types/jest": "^29.5.0",
+    "@types/jest": "^29.5.12",
     "@types/k6": "^0.47.1",
     "@types/lodash": "^4.14.194",
     "@types/node": "^18.15.11",
