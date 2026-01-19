@@ -83,7 +83,7 @@
     "sass": "1.63.2",
     "sass-loader": "13.3.1",
     "style-loader": "3.3.3",
-    "styled-components": "^6.1.0",
+    "styled-components": "^6.1.8",
     "swc-loader": "^0.2.3",
     "ts-node": "^10.9.1",
     "tsconfig-paths": "^4.2.0",
